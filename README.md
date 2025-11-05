@@ -84,49 +84,6 @@ Motivated by impactful projects that combine creativity, technology, and real-wo
 
 </div>
 
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🔐 [Smart Lock API](https://github.com/Dpinto9/ApiLock/tree/main/Smart%20Lock)
-<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white" alt="IoT" />
-<img src="https://img.shields.io/badge/API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="API" />
-<img src="https://img.shields.io/badge/Security-FF6B6B?style=flat-square&logo=security&logoColor=white" alt="Security" />
-
-Smart Lock system with API integration for IoT security solutions
-
-
-### 🎰 [PHP Management](https://github.com/Dpinto9/PHP-management)
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Web-47A248?style=flat-square&logo=html5&logoColor=white" alt="Web" />
-
-Casino games simulation hub
-
-
-### 🐍 [Snake Game v2](https://github.com/Dpinto9/Snake-Game-v2)
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Game-FF6B6B?style=flat-square&logo=gamepad&logoColor=white" alt="Game" />
-
-Classic snake game built with pure JavaScript
-
-
-### 🎵 [VinylPlayer](https://github.com/Dpinto9/VinylPlayer-CssJS)
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-
-Interactive vinyl player created with CSS and JavaScript
-
-
-### 📰 [XML-JSON NewsSite](https://github.com/Dpinto9/XML-JSON-NewsSite)
-<img src="https://img.shields.io/badge/Web-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web" />
-<img src="https://img.shields.io/badge/Data-47A248?style=flat-square&logo=json&logoColor=white" alt="Data" />
-
-News site with XML and JSON data manipulation
-
-</div>
-
-
 ## 📫 Connect with Me
 
 <div align="center">
