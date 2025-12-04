@@ -47,7 +47,9 @@ Motivated by impactful projects that combine creativity, technology, and real-wo
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpinto9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpinto9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Languages" /> -->
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dpinto9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Languages" />
 
 </td>
 </tr>
