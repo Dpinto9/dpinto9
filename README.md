@@ -90,7 +90,7 @@ Motivated by impactful projects that combine creativity, technology, and real-wo
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/diogo-pinto-4ab865278/">
+  <a href="https://www.linkedin.com/in/Dpinto9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Dpinto9">
